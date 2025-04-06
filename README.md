@@ -1,6 +1,6 @@
 # 🚨 ScamSentry – AI-Powered Scam Detection
 
-ScamSentry is an AI-powered message classifier that detects suspicious or scam-like messages using NLP, machine learning, and transformer-based models. Built 100% in Google Colab — no API keys, no hassle.
+ScamSentry is an AI-powered message classifier that detects suspicious or scam-like messages using NLP, machine learning, and transformer-based models. 
 
 ---
 
